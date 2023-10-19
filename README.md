@@ -1,4 +1,4 @@
-# Olá, me chamo Ramon Freire 😃
+# Olá, me chamo Ramon 😃
 
 Em busca de conhecimento nesse universo da programação 🌎💻
 
