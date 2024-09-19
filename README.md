@@ -4,7 +4,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=js,react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=sass,node.js)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=js,react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=sass,nodejs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My Skills](https://skillicons.dev/icons?i=bootstrap,gulp)
   
           
           
